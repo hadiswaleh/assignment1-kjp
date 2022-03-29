@@ -1,10 +1,8 @@
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
-    
+ 
    
 let Emp = [{
     id : 1,
-    name : 'Hadi',
+    name : 'Hammad',
     designation : 'Account Executive'
 },{
     id : 2,
